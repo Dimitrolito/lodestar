@@ -40,7 +40,7 @@ Click on the `Open dedicated DevTools for Node` link to open the node specific w
 
 ![Memory Tab](/images/heap-dumps/memory-tab.png)
 
-Load the profile by either right clicking on the left pane or by clicking the `Load` button at the bottom.
+Load the profile by either right-clicking on the left pane or by clicking the `Load` button at the bottom.
 
 ![Load Profile](/images/heap-dumps/load-profile.png)
 
